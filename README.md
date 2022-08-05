@@ -1,9 +1,9 @@
 # nodejs-websockets
 Simple websocket examples in Node.js
 
-Meus cursos: https://www.luiztools.com.br/meus-cursos
+<!--Meus cursos: https://www.luiztools.com.br/meus-cursos
 Meus livros: https://www.luiztools.com.br/meus-livros
-Minhas redes sociais: https:/about.me/luiztools
+Minhas redes sociais: https:/about.me/luiztools -->
 
 ## server
 Web Server + WebSocket Server.
